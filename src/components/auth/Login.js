@@ -40,7 +40,7 @@ function Login() {
           <div className="row justify-content-center">
             <div className="d-grid gap-2 col-8 mx-auto">
               <h2 className="text-center text-uppercase text-wrap text-primary m-3">
-                Log in to WoRCO
+                Log in to WoCRO
               </h2>
               <div className="form-group border m-4 p-3 shadow">
                 <div>

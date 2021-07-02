@@ -19,7 +19,7 @@ function Navbar() {
         <Link 
           className="navbar-brand" 
           to="/"
-        >WoRCO</Link>
+        >WoCRO</Link>
         <div className="collapse navbar-collapse">
           <Link 
             className="nav-link text-light" 
